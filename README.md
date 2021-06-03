@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @santanu995
+- 👋 Hi, I’m Santanu
 - Currently a Software Engineer in Credit Saison
 - 👀 I’m interested in Coding, Gaming
 
